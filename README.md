@@ -1,9 +1,9 @@
-# Escola avaliação prática
+# Escola avaliação api flutter
 
-## Ambiente de desenvolvimento
+## Tecnologias
 - Node.js
 - MySQL (XAMPP)
-- Prisma ORM
+- Prisma
 - React.js
 - Vite
 
